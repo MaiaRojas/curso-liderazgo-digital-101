@@ -1,6 +1,7 @@
 # Dinámica Proyecto vs Producto
 
-* Tipo: `dinámica`
+* Tipo: `lectura`
+* Formato: `self-paced`
 * Duración: `15min`
 
 ***

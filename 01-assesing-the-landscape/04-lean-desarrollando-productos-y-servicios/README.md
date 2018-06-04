@@ -1,6 +1,6 @@
 # Lean: desarrollando productos y servicios
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `20min`
 
@@ -14,6 +14,7 @@ Usa este [link](https://docs.google.com/presentation/d/1eds-3eyTIBPaDAKhQhxf9n63
 para acceder a las diapositivas.
 
 ## Contenido
+
 En esta sección cubriremos los siguientes temas:
 
 * Que es la filosofía de trabajo "Lean Startup".

@@ -1,6 +1,6 @@
 # Creencias Dañinas
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `20min`
 
@@ -8,9 +8,9 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQx6EWg95Or4nVNRSg4ikKDoI-8eIW1CmKHIACBwFjILLM3r5ys7a4YK0idl0eEuA919H8-QXRVFpxr/pub?start=false&loop=false&delayms=3000)
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQx6EWg95Or4nVNRSg4ikKDoI-8eIW1CmKHIACBwFjILLM3r5ys7a4YK0idl0eEuA919H8-QXRVFpxr/embed?start=false&loop=false&delayms=3000)
 
-Usa este [link](https://docs.google.com/presentation/d/1z2gTlJ6pkm8P3vO4Su1rICybR2Ap7KNBLqkZ6DgIIHU/edit#slide=id.g38113bfa8e_0_56)
+Usa este [link](xxx)
 para acceder a las diapositivas.
 
 ## Contenido

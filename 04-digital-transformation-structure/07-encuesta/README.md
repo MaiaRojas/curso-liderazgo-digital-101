@@ -1,8 +1,8 @@
 # Encuesta
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `15 min`
+* Duración: `15min`
 
 ***
 

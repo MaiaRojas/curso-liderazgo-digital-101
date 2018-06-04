@@ -1,6 +1,6 @@
 # Retos de la estructura organizacional
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `20min`
 

@@ -1,6 +1,6 @@
 # Product Market-Fit
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `20min`
 

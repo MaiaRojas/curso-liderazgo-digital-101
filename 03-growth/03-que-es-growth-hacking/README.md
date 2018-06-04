@@ -1,6 +1,6 @@
 # Qué es growth hacking
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `20min`
 

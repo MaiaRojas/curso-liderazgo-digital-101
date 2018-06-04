@@ -1,6 +1,6 @@
 # Etapas de crecimiento del producto digital
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `10min`
 

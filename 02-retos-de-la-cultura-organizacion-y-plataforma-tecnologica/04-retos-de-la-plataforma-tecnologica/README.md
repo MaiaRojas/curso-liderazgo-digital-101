@@ -1,6 +1,6 @@
 # Retos de la plataforma tecnológica
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `30min`
 

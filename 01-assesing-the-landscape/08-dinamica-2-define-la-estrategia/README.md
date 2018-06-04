@@ -1,6 +1,7 @@
 # Define la Estrategia
 
-* Tipo: `dinámica`
+* Tipo: `lectura`
+* Formato: `self-paced`
 * Duración: `30min`
 
 ***

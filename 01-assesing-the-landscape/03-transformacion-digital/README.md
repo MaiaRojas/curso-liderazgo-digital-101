@@ -1,6 +1,6 @@
 # Transformación Digital
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `30min`
 
@@ -9,7 +9,7 @@
 ## Presentación
 
 [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQXIe0m6NuvglaLbxmWrhW_fmOE3QtWMOyxl2mug-aZ7iEDLQP99A4Kwzw82-eCSvCzlid7fVgKYdYo/pub?start=false&loop=false&delayms=3000)
-	
+
 Usa este [link](https://docs.google.com/presentation/d/1dyFgojH4E-ojJE5B3BO4QxqjmsFI8GCNsuiz8yZJMS4/edit#slide=id.g36f92c28ba_0_79)
 para acceder a las diapositivas.
 

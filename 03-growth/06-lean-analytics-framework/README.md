@@ -1,6 +1,6 @@
 # Lean Analytics Framework
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `15min`
 

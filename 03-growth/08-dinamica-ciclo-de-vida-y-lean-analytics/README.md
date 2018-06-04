@@ -1,6 +1,6 @@
 # Dinámica - Ciclo de Vida y Lean Analytics
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `15min`
 

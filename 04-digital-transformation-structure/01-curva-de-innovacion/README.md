@@ -1,6 +1,6 @@
 # La curva de la innovación
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `5min`
 

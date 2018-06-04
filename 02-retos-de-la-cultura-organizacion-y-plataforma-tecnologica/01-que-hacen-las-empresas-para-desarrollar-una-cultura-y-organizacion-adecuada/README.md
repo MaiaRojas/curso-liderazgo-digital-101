@@ -1,6 +1,6 @@
 # Qué hacen las empresas para desarrollar una cultura y organización adecuada
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `30min`
 

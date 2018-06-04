@@ -1,6 +1,6 @@
 # Las 4 estrategias para ganar en digital
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `30min`
 

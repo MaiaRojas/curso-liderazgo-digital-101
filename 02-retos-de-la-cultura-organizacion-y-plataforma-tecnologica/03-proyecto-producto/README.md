@@ -1,6 +1,6 @@
 # Proyecto vs Producto
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `30min`
 

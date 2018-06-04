@@ -1,8 +1,8 @@
 # Encuesta de Liderazgo
 
-* Tipo: `presentación`
+* Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `30 min`
+* Duración: `30min`
 
 ***
 
